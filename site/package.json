@@ -1,0 +1,20 @@
+{
+  "name": "hamza-root-site",
+  "version": "1.0.0",
+  "description": "Cyber portfolio site",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "@fontsource-variable/ysabeau-infant": "^5.0.0",
+    "three": "^0.155.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^3.2.0",
+    "parcel": "^2.16.4"
+  },
+  "keywords": [],
+  "author": "Hamza Root",
+  "license": "MIT"
+}
